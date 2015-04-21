@@ -17,5 +17,5 @@
 <resources>
     <dimen name="dialpad_key_letters_small_size">10sp</dimen>
     <dimen name="dialpad_key_margin_right">9dp</dimen>
-    <dimen name="dialpad_key_number_left_margin">26dp</dimen>
+    <dimen name="dialpad_key_number_left_margin">40dp</dimen>
 </resources>
